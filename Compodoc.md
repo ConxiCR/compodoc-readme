@@ -1,8 +1,18 @@
 # Compodoc
+<p align="left"> 
+  <img src="https://avatars3.githubusercontent.com/u/23202313" alt="Compodoc: The missing documentation tool for your Angular application" width="50">
+  <b>To do documentation easy to be maintained.</b>
+</p>
 
-*To do documentation easy to be maintained.*
+[Official Documentation. Compodoc.app](https://compodoc.app/)
+ 
+[Official Github](https://github.com/compodoc/compodoc)
+ 
+ 
+ 
+ 
 
- <h1>[Official Documentation. Compodoc.app](https://compodoc.app/)</h1>
+  
 
 ### Checked if:
 - **npm is installed** if not installed - `npm install`
